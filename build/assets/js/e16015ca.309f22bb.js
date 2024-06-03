@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgreentree_docs=self.webpackChunkgreentree_docs||[]).push([[1497],{9635:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
