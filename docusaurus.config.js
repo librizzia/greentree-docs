@@ -74,12 +74,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/greentree-media-social-card.png',
       navbar: {
         title: 'Greentree Docs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Greentree Docs Logo',
+          src: 'img/greentree-logo-green.svg',
         },
         items: [
           {
@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/librizzia/greentree-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -134,7 +134,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/librizzia/greentree-docs',
               },
             ],
           },

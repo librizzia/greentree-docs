@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Greentree was designed from the ground up to get you up and running quickly.
+        Greentree Docs was designed from the ground up to get you up and running quickly.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        We focus on your docs, so you're not left looking for answers so you can get more done.
+        We focus on the documentation, so you're not left looking for answers so you can get more done.
       </>
     ),
   },
